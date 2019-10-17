@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">actrasionlist</string>
+    <string name="Loren">loren</string>
+    <string name="nama_place">objectwisata</string>
+
+    <string-array name="data_wisata">
+        <item>Curug Dadali</item>
+        <item>Kota Bunga</item>
+        <item>Pantai Jayanti</item>
+        <item>Alun-Alun Suryakencana</item>
+        <item>Situs Gunung Padang</item>
+        <item>Panyairan</item>
+        <item>Taman Bunga</item>
+    </string-array>
+
+    <string-array name="artikel">
+        <item>Wisata yang satu ini memiliki keindahan yang paripurna loh,
+kamu tidak percaya percaya? buktikan sendiri saja dengan langsung datang ke Kampung Legosaat,
+Desa Wargaasih Kecamatan Kapundak. Bentuk Curug Cidadali ini melebar membentuk tirai benang berwarna putih,
+dan balik curug ini juga ada gua yang tersembunyi.
+</item>
+        <item>Tempat wisata ini merupakan salah satu andalan dan bisa dikatakan ikon lainnya yang Cianjur punya.
+Di tempat wisata ini kamu akan dimanjakan dengan sensasi suasana kota yang rasanya seperti di Eropa Sana.
+Bangunan dan jembatan yang sama dengan di Eropa ini membuat hati serasa berada di luar negeri.
+Di kota Bunga kamu juga akan akan di ajak untuk keliling dengan naik perahu diatas sungai yang airnya cukup bersih dan segar.
+Dengan pemukiman yang dibuat sedemikian sempit dan ditengahnya di isi dengan
+parit-parit membuat kota bunga ini di juluki kotanya venecia italia ala Indonesia.
+Nah bagi yang tertarik untuk menikmati sensasi liburan ala Eropa di Indonesia bisa langsung datang ke lokasi tempat
+wisata yakni di Jalan Hanjawar Desa Sukanagalih Kecamatan Pacet Kabupaten Cianjur.</item>
+        <item>Pantai ini berlokasi di Cidaun Selatan, tepatnya di Desa Cidamar, Kecamatan Cidaun, Cianjur Selatan.
+Jika melakukan perjalanan dari pusat kota Cianjur menuju Pantai Jayanti dibutuhkan waktu sekitar 4 jam.
+Pemandangan di pantai ini sungguh indah dan menawan.
+Kebersihan di tempat ini juga masih sangat terjaga karena belum banyak orang yang mengetahuinya.</item>
+        <item>Bagi penyuka edelweiss, Alun-alun Surya Kencana adalah tempat terbaik untuk kamu melihat bunga yang cantik ini.
+Sejauh mata memandang, hamparan edelweiss yang tumbuh subur menjadi daya tarik bagi para pendaki untuk berfoto.
+Datanglah ke sini sekitar Juni – Agustus untuk melihat edelweiss bermekaran dengan sempurna.</item>
+        <item>Tempat wisata sejarah ini berupa situs megalitik terbesar di Asia Tenggara,
+situs Gunung Padang ini berupa punden berundak
+dan serakan batu-batu yang memiliki luas
+kurang lebih 900 meter persegi yang berada di area seluas sekitar 3 hektar.
+Letak Situs Gunung Padang di peta berada di Gunung Padang,
+Desa Karyamukti, Kecamatan Campaka, Kabupaten Cianjur.
+Koordinat Situs Gunung Padang pada gps berada di titik -6.9935843,107.0541045 dengan ketinggian 885 dpl.</item>
+        <item>Perkebunan Teh Panyairan adalah perkebunan yang menghasilkan teh hitam CTC milik PTP Nusantara VIII.
+Luas lahannya sekitar 1.000 hektar dengan ketinggian antara 800-1100 meter di atas permukaan air laut.
+Kebun teh yang satu ini memiliki keunikan dan kelebihannya sendiri,
+hamparan kebun teh yang menyegarkan mata dengan udara sejuknya
+akan membuat diri kamu tenang karena udara yang masih bersih jauh dari polusi.
+Apabila ditempuh dari Kota Cianjur,
+jaraknya sekitar 35 km, beralamat di Jalan Raya Campaka, Kecamatan Campaka.</item>
+        <item>Wisata taman bunga cantik yang tidak boleh kamu lewatkan adalah Taman Bunga Nusantara.
+Luas lahannya kurang lebih 35 hektar dengan bermacam koleksi bunga lokal dan luar negeri.
+Pemandangan dengan hamparan bunga yang beragam akan semakin memanjakan mata.
+Tempat ini juga tak pernah sepi pengunjung baik itu dari wisatawan lokal maupun wisatawan asal luar kota.
+Kamu bisa mengunjunginya lewat Puncak Pass, lalu belok ke arah kiri yaitu ke Perumahan Kota Bunga,
+jaraknya sekitar 9 km, alamatnya di Jalan Mariawati km 7, Desa Kawung Luwuk, Cipanas, Cianjur.</item>
+    </string-array>
+
+    <string-array name="img_photo">
+        <item>@drawable/curugdadali</item>
+        <item>@drawable/kotabunga</item>
+        <item>@drawable/jayanti</item>
+        <item>@drawable/gngede</item>
+        <item>@drawable/gnpadang</item>
+        <item>@drawable/panyairan</item>
+        <item>@drawable/taman_bunga</item>
+    </string-array>
+</resources>
